@@ -66,24 +66,5 @@ $ yarn start
 - [React Navigation](https://reactnavigation.org/) - Routing and navigation for Expo and React Native apps.
 - [TypeScript](https://www.typescriptlang.org/) - JavaScript with syntax for types.
 
-<br />
 
-## 📩 Contact
-
-I know that first and foremost you are looking for a tool to solve your problems, but if you enjoy
-it that much, why not tell us? We would love to hear from you 😉
-
-DM me at 👇
-
-* Twitter: <a href="https://twitter.com/nfs__21" target="_blank">@nfs__21</a>
-* Email: nafeesnazik21@gmail.com
-
-<br>
-
-## 🤗 Credits
-
-- App Icons from [Logos-by-larkef](https://rareblocks.xyz/logos-by-larkef)
-- Project inspiration [Einsen](https://github.com/Spikeysanju/Einsen)
-
-<br>
 
