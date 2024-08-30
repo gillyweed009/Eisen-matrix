@@ -2,14 +2,6 @@
 ![GitHub Cards Preview](readme-assets/header.png)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-![GitHub issues](https://img.shields.io/github/issues/G3root/Eisen-Matrix)
-
-![GitHub stars](https://img.shields.io/github/stars/G3root/Eisen-Matrix?style=social)
-![GitHub stars](https://img.shields.io/github/forks/G3root/Eisen-Matrix?style=social)
-![GitHub stars](https://img.shields.io/github/watchers/G3root/Eisen-Matrix?style=social)
-![GitHub follow](https://img.shields.io/github/followers/G3root?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/nfs__21?label=Twitter&style=social)
-
 # 🎯 Eisen Matrix
 
  Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes inspired by [Einsen](https://github.com/Spikeysanju/Einsen) which is written in **Kotlin**.<br />
